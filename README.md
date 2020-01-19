@@ -9,7 +9,7 @@ To get started:
     ```bash
     git https://github.com/AbleOne/dashboard_playground.git
 
-    cd tailwindcss-playground
+    cd to the root of the cloned project
     ```
 
 2. Install the dependencies:
