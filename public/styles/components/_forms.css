@@ -1,0 +1,23 @@
+/* Forms */
+.form-label {
+    @apply block text-sm font-bold mb-2;
+}
+
+.checkbox-label {
+    @apply mb-3;
+}
+
+input:not([type=checkbox]),
+textarea {
+    @apply appearance-none block w-full bg-white text-gray-700 border border-border_color rounded py-3 px-4 leading-tight;
+}
+
+input:focus,
+textarea:focus {
+    @apply outline-none bg-gray-100 border-gray-500;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 46px;
+}
