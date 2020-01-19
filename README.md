@@ -1,6 +1,6 @@
-# Tailwind CSS Playground
+# Dashboard Playground
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+Base markup for playing around with Dashboard (with Tailwind in a proper PostCSS environment with proper PostCSS plugins .😉 ).
 
 To get started:
 
